@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="testCases.TestCases"/>
+      <class name="testCases.Methods"/>
+      <class name="testCases.NormalClass_03"/>
+      <class name="testCases.Snapdeal"/>
+      <class name="testCases.Priority"/>
+      <class name="testCases.Annot"/>
+      <class name="testCases.Snap_02Class"/>
+      <class name="testCases.priority_0_1"/>
+      <class name="testCases.priority_Annotation"/>
+      <class name="testCases.Snapdeal_03"/>
+      <class name="testCases.DependsMethod"/>
+      <class name="testCases.Priority_Seq"/>
+      <class name="testCases.Priority_01"/>
+      <class name="testCases.Priority_02"/>
+      <class name="testCases.Class01"/>
+      <class name="testCases.Priority_03"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

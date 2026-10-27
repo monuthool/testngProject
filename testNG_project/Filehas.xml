@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name = 'CombineFilehas'></suite>
+<suite-files>
+<suite-file path = "Ha.xml"</suite-files>
+<suite-file path = "Ha1.xml"</suite-files>
+<suite-files path = "Sa.xml"</suite-files>
+</suite-files>
+</suite-file>
+

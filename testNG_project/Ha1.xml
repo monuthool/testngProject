@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="HardAssert1">
+  <test thread-count="5" name="HardAssert1">
+    <classes>
+      <class name="testCases.HardAssert_1"/>
+    </classes>
+  </test> <!-- HardAssert1 -->
+</suite> <!-- HardAssert1 -->
